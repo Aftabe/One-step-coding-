@@ -60,3 +60,15 @@ ul {
     letter-spacing: 4px;
     text-transform: uppercase;
   }
+
+  .buttom-text-box{
+    width: 400px;
+    color: gray;
+    margin: auto;
+    text-align: left;
+    padding: 7px;
+    display: none;
+  }
+  .buttom-text-box h2{
+    text-align: center;
+  }
